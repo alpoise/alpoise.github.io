@@ -4,7 +4,7 @@ title: About Me
 header: About Me
 group: navigation
 ---
- * **Name:** Yitao Yao
- * **Email:** [simpleyyt@gmail.com](mailto:simpleyyt@gmail.com)
- * **WeiBo:** [摇一摇SimpleLife](http://www.weibo.com/u/1836017133)
- * **Github:** [Simpleyyt](https://github.com/Simpleyyt)
+ * **Name:** Xin Zhang
+ * **Email:** [alpoise@pku.edu.cn](mailto:alpoise@pku.edu.cn)
+ * **WeiBo:** [嗨拽的Esiopla](http://www.weibo.com/u/3164054954)
+ * **Github:** [alpoise](https://github.com/alpoise)
